@@ -11,4 +11,4 @@
 
 ## Configuration
 
-You can set your 'APP_ID', 'MASTER_KEY' and 'DATABASE_URI' just after you click **Deploy on Tutum**
+You can set your 'APP_ID', 'MASTER_KEY', 'DATABASE_URI', 'CLOUD_CODE_MAIN' and PARSE_MOUNT just after you click **Deploy on Tutum**
