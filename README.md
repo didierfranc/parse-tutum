@@ -3,7 +3,7 @@
 ## Deployment
 
 1. Register to [tutum.co](https://tutum.co)
-2. Launch new node cluster where you want (DigitalOcean, Azure, AWS, SoftLayer, Packet)
+2. Launch a new node cluster where you want (DigitalOcean, Azure, AWS, SoftLayer, Packet)
 3. Click **Deploy to Tutum**, thats it
 
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
