@@ -8,8 +8,7 @@ parse:
     - APP_ID=1111
     - MASTER_KEY=1111
     - DATABASE_URI=mongodb://mongo:27017/parse
-  deployment_strategy: 
-    - every_node
+  deployment_strategy: every_node
  
 mongo:
   image: tutum/mongodb
@@ -17,5 +16,4 @@ mongo:
     - parse
   environment:
     - AUTH=no
-  deployment_strategy: 
-    - every_node
+  deployment_strategy: every_node
