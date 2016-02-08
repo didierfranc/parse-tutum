@@ -7,6 +7,7 @@ parse:
   environment:
     - PARSE_SERVER_APPLICATION_ID=1111
     - PARSE_SERVER_MASTER_KEY=1111
+    - PARSE_SERVER_MOUNT_PATH=/parse
     - PARSE_SERVER_CLOUD_CODE_MAIN=/parse/cloud/main.js
     - PARSE_SERVER_DATABASE_URI=mongodb://mongo:27017/parse
   deployment_strategy: every_node
